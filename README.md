@@ -16,7 +16,6 @@ The script has been originally developped for NTLM cracking, using my own hardwa
 The code is probably dirty and could be optimized, feel free to use and modify it with your own commands ! :wink:
 <br/>
 
-
 ## :memo: Install & Configuration
 
 This tool was initially developped for Python3.
@@ -140,6 +139,7 @@ No cracking here.
 ```bash
 $ python wrapcat.py -m 1000 -f HASH_FILE.txt -p POT_FILE.txt --just-save
 ```
+<br/>
 
 ## :hourglass: Benchmarks
 
