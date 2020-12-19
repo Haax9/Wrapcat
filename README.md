@@ -13,7 +13,8 @@ I originally made it for myself but thought it could help people.
 
 The script has been originally developped for NTLM cracking, using my own hardware for cracking reference (time) and in order to not exceed several hours, even for the full mode. However, it can be used for many other hash formats (I used it for MD5, SHA-1...) but in that case, it would take more time.
 
-The code is probably dirty and could be optimized, feel free to use and modify it with your own commands ! :wink:
+The code is probably dirty and could be optimized, feel free to use and modify it with your own commands.
+
 <br/>
 
 ## :memo: Install & Configuration
@@ -155,7 +156,7 @@ Cracking 2150 NTLM Hashes :
 [-] Phase 1 (Wordlist / Simple masks) - 59.61 sec
 [-] Phase 2 (Wordlist + Rules) - 279.53 sec
 [-] Phase 3 (Wordlist + Masks) - 306.44 sec
-[-] Phase 4 (Wordlist+Cracked) - 332.31 sec
+[-] Phase X (Wordlist + Cracked) - 332.31 sec
 
 [+] Total execution time : 334.50 sec
 ```
@@ -166,7 +167,7 @@ Cracking 2150 NTLM Hashes :
 [-] Phase 2 (Wordlist + Rules) - 291.57 sec
 [-] Phase 3 (Wordlist + Masks) - 318.62 sec
 [-] Phase 4 (EXTENDED MODE) - 2024.03 sec
-[-] Phase 5 (Wordlist+Cracked) - 2052.72 sec
+[-] Phase X (Wordlist + Cracked) - 2052.72 sec
 
 [+] Total execution time : 2055.02 sec
 ```
@@ -178,7 +179,7 @@ Cracking 2150 NTLM Hashes :
 [-] Phase 3 (Wordlist + Masks) - 314.79 sec
 [-] Phase 4 (EXTENDED MODE) - 1983.49 sec
 [-] Phase 5 (FULL MODE) - 6989.67 sec
-[-] Phase 6 (Wordlist+Cracked) - 7017.81 sec
+[-] Phase X (Wordlist + Cracked) - 7017.81 sec
 
 [+] Total execution time : 7019.91 sec
 ```

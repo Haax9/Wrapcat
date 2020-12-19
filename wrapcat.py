@@ -279,7 +279,7 @@ def useAlreadyCracked(hashType,hashFile,potFile,start_time):
     mask_dict_attack(hashType,hashFile,potFile,C_CUSTOM_SPECIAL,"?1",L_CRACKED)
     mask_dict_attack(hashType,hashFile,potFile,C_CUSTOM_SPECIAL,"?1?1",L_CRACKED)
     mask_dict_attack(hashType,hashFile,potFile,C_CUSTOM_SPECIAL,"?1?1?1",L_CRACKED)
-    PHASE_TIMER["Phase 4 (Wordlist+Cracked)"] = time.time() - start_time
+    PHASE_TIMER["Phase X (Wordlist + Cracked)"] = time.time() - start_time
 
 
 def crack(args, start_time):
