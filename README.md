@@ -187,6 +187,6 @@ Cracking 2150 NTLM Hashes :
 
 ### Extra tip
 
-If you're not afraid by getting rickrolled, I heard that listening this song while cracking hashes produces better results ¯\_(ツ)\_/¯
+If you're not afraid by getting rickrolled, I heard that listening this song while cracking hashes produces better results ¯\\\_(ツ)\_/¯ (thanks to <a href="https://twitter.com/h_nu11" target="_blank" rel="noopener">h_null1</a>)
 
 https://www.youtube.com/watch?app=desktop&v=BjfbS_Kj-J0
