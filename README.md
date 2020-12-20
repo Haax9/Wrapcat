@@ -183,3 +183,10 @@ Cracking 2150 NTLM Hashes :
 
 [+] Total execution time : 7019.91 sec
 ```
+<br/>
+
+### Extra tip
+
+If you're not afraid by getting rickrolled, I heard that listening this song while cracking hashes produces better results ¯\_(ツ)\_/¯
+
+https://www.youtube.com/watch?app=desktop&v=BjfbS_Kj-J0
